@@ -1,11 +1,11 @@
 <br>
  </p>
     <p align="center">
-    WAIT NEXT UPDATE FIX ALL ERORRS.......   
+    MR DILA OFC.......   
 <br>
  </p>
     <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+HANSAMAL-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY;IMALKA-HANSAMAL." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+WHITENEARO-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY;LAKSHITHA-DILMINA." alt="Typing SVG" /></a>
 
  
   
@@ -47,17 +47,17 @@
 1. FORK THIS REPO
 
 
-<a href=https://github.com/Dilalakiya/Dilalakiya/edit/main/README.md'WHITENEARO-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href=https://github.com/Dilalakiya/Dilalakiya/edit/main/README.md'WHITENEARO-MD/fork' target="_blank"><img alt='Fork repo' src='https://https://github.com/Dilalakiya/Dilalakiya/edit/main/README.mdimg.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 
 <a href="https://cautious-halibut-pjgjrvgv5wxrhrxqw-8000.app.github.dev/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 2. ## DEPLOY BY SESSION ID (WHATSAPP LOG WITH PAIR CODE)
 
-<a href='https://replit.com/@atayafuataya/HANSAMAL-MD-1' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/%F0%9F%9A%80%EF%B8%8F%E2%80%8D%201-OUR%F0%9F%93%8B%20%20PAIR%20CODE%20WEB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-yellow' width="400" height="50" alt="Deploy bot"/></a>
+<a href='https://https://replit.com/~lakshithadilmi2' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/%F0%9F%9A%80%EF%B8%8F%E2%80%8D%201-OUR%F0%9F%93%8B%20%20PAIR%20CODE%20WEB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-yellow' width="400" height="50" alt="Deploy bot"/></a>
 
 <hr>
-<a href='https://replit.com/@atayafuataya/HANSAMAL-MD-1' target="_blank"><img alt='Session ID WEB' src='https://img.shields.io/badge/%F0%9F%9A%80%EF%B8%8F%E2%80%8D%202-OUR%F0%9F%93%8B%20%20PAIR%20CODE%20WEB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-RED' width="400" height="50" alt="Deploy bot"/></a>
+<a href='https://replit.com/~lakshithadilmi2' target="_blank"><img alt='Session ID WEB' src='https://img.shields.io/badge/%F0%9F%9A%80%EF%B8%8F%E2%80%8D%202-OUR%F0%9F%93%8B%20%20PAIR%20CODE%20WEB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-RED' width="400" height="50" alt="Deploy bot"/></a>
 
 <hr>
 <hr>
@@ -73,7 +73,7 @@
 
 
 
-   <a href="https://github.com/cobrs11/"><img src="https://telegra.ph/file/c718b67d351c1190e285b.jpg" width=80 height=80></a>   
+   <a href="https:///"><img src="https://telegra.ph/file/c718b67d351c1190e285b.jpg" width=80 height=80></a>   
 
 |**[`LAKSHITHA-DILMINA`](https://github.com/Dilalakiya/Dilalakiya/edit/main/README.md)**|
 
