@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="">
-    <img alt="WHITE-NEAROMD" height="300" src="https://files.catbox.moe/4y72vl.jpg">
+    <img alt="WHITE-NEAROMD" height="300" src="">
 
     
 
@@ -33,7 +33,7 @@
 
 
 
-## MY YT CHANNEAL) 
+MR DILA
 
 </details>
 
