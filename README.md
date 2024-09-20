@@ -5,7 +5,7 @@
 <br>
  </p>
     <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://[![MR DILA OFC](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+WHITENEARO-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY;LAKSHITHA-DILMINA." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://[![MR DILA OFC](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)NEW UPDATE COMMING SOON?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+WHITENEARO-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY;LAKSHITHA-DILMINA." alt="Typing SVG" /></a>
 
  
   
@@ -17,8 +17,8 @@
 <hr>
 
 <p align="center">
-  <a href="https://youtu.be/WcA7GZuaN0A">
-    <img alt="HANSAMAL-MD" height="300" src="https://files.catbox.moe/4y72vl.jpg">
+  <a href="">
+    <img alt="WHITE-NEAROMD" height="300" src="https://files.catbox.moe/4y72vl.jpg">
 
     
 
