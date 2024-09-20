@@ -22,20 +22,18 @@
 
     
 
-![forks](https://img.shields.io/github/forks/cobrs11/HANSAMAL-MD?label=Forks&style=social)
+![forks](https://github.com/Dilalakiya/Dilalakiya/edit/main/README.md/WHITENEARO-MD?label=Forks&style=social)
 
-![stars](https://img.shields.io/github/stars/cobrs11/HANSAMAL-MD?style=social)
-
-
-
-
-<a href="https://www.whatsapp.com/channel/0029VajrLTH30LKXN5O5Zj04"><img src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F%E2%80%8D%20Join%20Our%20WhatsApp%20Channel%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-green" alt="📎 Join Our WhatsApp Channel" width="300"></a>
+![stars](https://github.com/Dilalakiya/Dilalakiya/edit/main/README.md/WHITENEARO-MD?style=social)
 
 
 
-## MY YT CHANNEL
 
-[![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/@IMALKAHANSAMAL) 
+<a n" alt="📎 Join Our WhatsApp Channel" width="300"></a>
+
+
+
+## MY YT CHANNEAL) 
 
 </details>
 
@@ -49,7 +47,7 @@
 1. FORK THIS REPO
 
 
-<a href='https://github.com/cobrs11/HANSAMAL-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href=https://github.com/Dilalakiya/Dilalakiya/edit/main/README.md'WHITENEARO-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 
 <a href="https://cautious-halibut-pjgjrvgv5wxrhrxqw-8000.app.github.dev/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
@@ -67,7 +65,7 @@
 ## DEPLOYMENT METHODS
 3. ## Deploy to Koyeb ↓
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=hansamal-md&type=git&repository=cobrs11%2FHANSAMAL-MD&branch=main&builder=dockerfile&env%5BSESSION_ID%5D=your+sessionid+here&env%5BMODE%5D=public&env%5BAUTO_STATUS_SEEN%5D=true&env%5BAUTO_READ%5D=flase&env%5BAUTO_REACT%5D=flase&env%5BALWAYS_ONLINE%5D=flase&ports=8000%3Bhttp%3B%2F)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=WHITENEARO-md&type=git&repository-MD&branch=main&builder=dockerfile&env%5BSESSION_ID%5D=your+sessionid+here&env%5BMODE%5D=public&env%5BAUTO_STATUS_SEEN%5D=true&env%5BAUTO_READ%5D=flase&env%5BAUTO_REACT%5D=flase&env%5BALWAYS_ONLINE%5D=flase&ports=8000%3Bhttp%3B%2F)
 
 4. ## Deploy to RENDER ↓
 
@@ -77,9 +75,9 @@
 
    <a href="https://github.com/cobrs11/"><img src="https://telegra.ph/file/c718b67d351c1190e285b.jpg" width=80 height=80></a>   
 
-|**[`IMALKA-HANSAMAL`](https://github.com/cobrs11)**|
+|**[`LAKSHITHA-DILMINA`](https://github.com/Dilalakiya/Dilalakiya/edit/main/README.md)**|
 
-## 👑 `HANSAMAL-MD BOT OWNER`👨‍💻 
+## 👑 `WHITE NEARO-MD BOT OWNER`👨‍💻 
 
  <br>
  </p>
